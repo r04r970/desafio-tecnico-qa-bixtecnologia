@@ -111,7 +111,7 @@ npx playwright test tests/api --headed --debug
 ## 📹 Evidências
 
 O vídeo da execução dos testes foi gravado em inglês utilizando **Loom**:
-[Assistir demonstração](https://drive.google.com/drive/folders/1TfiNOnvAEAX_Roy4OTFGb87I01QAGIOH?usp=sharing)
+[Assistir demonstração]([https://drive.google.com/drive/folders/1TfiNOnvAEAX_Roy4OTFGb87I01QAGIOH?usp=sharing](https://drive.google.com/drive/folders/1TfiNOnvAEAX_Roy4OTFGb87I01QAGIOH))
 
 Capturas de tela e logs estão incluídos na pasta `evidence/`.
 
@@ -123,3 +123,4 @@ Capturas de tela e logs estão incluídos na pasta `evidence/`.
 * Testes de API e UI independentes para execução rápida em CI/CD
 * Tratamento robusto de erros e validações
 * Cobertura completa dos fluxos críticos
+
