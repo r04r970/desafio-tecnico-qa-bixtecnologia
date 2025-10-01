@@ -124,3 +124,4 @@ Capturas de tela e logs estão incluídos na pasta `evidence/`.
 * Tratamento robusto de erros e validações
 * Cobertura completa dos fluxos críticos
 
+
